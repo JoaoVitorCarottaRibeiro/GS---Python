@@ -1,4 +1,4 @@
-Nome: João Vitor Carotta Ribeiro -- RM: 555187.
+Nome: João Vitor Carotta Ribeiro -- RM: 555187.   
 Nome: Diego Eleutério Fadul da Costa -- RM: 557218.
 
 Detalhes do projeto:
